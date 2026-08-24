@@ -10,7 +10,6 @@ The application is designed around a simple idea:
 
 **[voicecart-ai-voice-commanding.onrender.com](https://voicecart-ai-voice-commanding.onrender.com)**
 
-> Note: this is hosted on Render's free tier, so the app may take 30–60 seconds to spin up on first load if it's been idle.
 
 ## ✨ Features
 
